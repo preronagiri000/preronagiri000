@@ -26,5 +26,5 @@
 ---
 
 ## 🌐 Connect with Me  
-- 💼 [LinkedIn](https://linkedin.com)  
-- 📧 Email: your-email@example.com  
+- 💼 [LinkedIn](https:https://www.linkedin.com/in/prerona-giri/
+- 📧 Email:preronagiri09gmail.com  
